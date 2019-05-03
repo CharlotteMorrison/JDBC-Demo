@@ -7,7 +7,7 @@ public class Driver {
 		
 		String url = "jdbc:mysql://localhost:3306/demo";
 		String user = "root";
-		String password = "Isabella1";
+		String password = "";
 		Connection myConn = null;
 		//Statement myStmt = null;
 		ResultSet myRs = null;
